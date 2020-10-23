@@ -1,0 +1,18 @@
+/crawl lag in seconds.pdf
+/ids.txt
+/missing_ids.csv
+/prova
+/prova.csv
+/prova.txt
+/recovered_missing_ids.csv
+/reddeat 2016-04-28 17-15-56.txt
+/reddeat 2016-04-28 17-18-54.txt
+/reddeat 2016-04-28 18-24-44.txt
+/reddeat 2016-04-28 18-25-14.txt
+/tmp.txt
+/logs/ *.txt *.bz2 *.csv
+/log/
+/log_old/
+ *.pyc
+/log_2x_6hrs/
+/praw.ini
